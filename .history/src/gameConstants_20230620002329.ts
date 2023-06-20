@@ -126,14 +126,14 @@ export const GAMES_PROPERTIES: { [key: string]: gamesProperties } = {
     name: "Black Hole",
     image: BlackHoleImg,
     description: "Juego de matemáticas",
-    url: "",
+    url: "https://blackhole.d2nhcn6q1nq4n6.amplifyapp.com/",
   },
   MEMORY: {
     id: 2,
     name: "Smart Survival",
     image: SmartSurvivalImg,
     description: "Juego de memoria",
-    url: "",
+    url: "https://front-end-test.d3baae27c9vcp4.amplifyapp.com/validate",
   },
   WINNING_CODE: {
     id: 3,
@@ -147,6 +147,6 @@ export const GAMES_PROPERTIES: { [key: string]: gamesProperties } = {
     name: "Planet Explorer",
     image: PlanetExplorerImg,
     description: "Juego de historia",
-    url: "",
+    url: "https://main.d1qpt6u4oyzh18.amplifyapp.com/history",
   },
 };
